@@ -3,10 +3,22 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lottie="clr-namespace:LottieSharp.WPF;assembly=LottieSharp"
         xmlns:local="clr-namespace:Econo.Views"
         mc:Ignorable="d"
-        Title="Welcome" Height="450" Width="800">
-    <Grid>
-        <Button Click="Button_Click">test</Button>
+        Background="Transparent"  AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid  Width="250" Height="200">
+        <Border Background="White" Opacity="0.7" CornerRadius="15"/>
+        <Grid>
+            <lottie:LottieAnimationView
+                    Width="200"
+                    Height="300"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    AutoPlay="True"
+                    FileName="./resources/animation_ljzeyr9q.json"
+                    RepeatCount="-1" />
+        </Grid>
     </Grid>
 </Window>

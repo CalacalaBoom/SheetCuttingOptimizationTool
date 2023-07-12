@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[3.4.0, )"
             },
+            "LottieSharp": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "SqlSugarCore": {
               "target": "Package",
               "version": "[5.1.4.89, )"

@@ -8,3 +8,61 @@ info: 2023-07-12 15:16:40.2970320 +08:00 星期三 L System.Logging.EventBusServ
       EventBus hosted service is running.
 dbug: 2023-07-12 15:17:10.0572015 +08:00 星期三 L System.Logging.EventBusService[0] #2
       EventBus hosted service is stopping.
+info: 2023-07-12 15:35:17.2382800 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:36:12.5646877 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:37:02.7520304 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 15:38:22.4242297 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 15:43:21.4822215 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:44:27.8446037 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 15:44:47.9206192 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 15:48:05.0386024 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:50:05.6931741 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:51:19.8382152 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:52:45.2706575 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:54:47.8273469 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:55:15.6027200 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:57:00.3098749 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:57:20.2651559 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:58:21.6045653 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:58:49.6588246 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:59:21.1759668 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:59:36.0230011 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 16:00:19.8630013 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 16:00:37.1173940 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 16:02:59.8790312 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 16:03:09.3130207 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 16:03:17.4664387 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 16:03:22.4591625 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 16:04:27.0722312 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 16:04:32.1681007 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 16:04:38.4572554 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 16:04:42.9838467 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.

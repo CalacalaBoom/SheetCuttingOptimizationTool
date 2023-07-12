@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -22,11 +24,26 @@ namespace Econo.Views
         public Welcome()
         {
             InitializeComponent();
+            new Thread(async () =>
+            {
+                await Task.Delay(3000);
+                ShowMain();
+            }).Start();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        [Obfuscation(Feature = "virtualization", Exclude = false)]
+        private void ShowMain()
         {
-            new Start().Show();
+            ThreadPool.QueueUserWorkItem(delegate
+            {
+                SynchronizationContext.SetSynchronizationContext(new
+                  System.Windows.Threading.DispatcherSynchronizationContext(System.Windows.Application.Current.Dispatcher));
+                SynchronizationContext.Current.Post(p1 =>
+                {
+                    new Start().Show();
+                    Close();
+                }, null);
+            });
         }
     }
 }

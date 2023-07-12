@@ -143,3 +143,16 @@ E:\Working\SheetCuttingOptimizationTool\src\Econo\obj\Debug\net6.0-windows\Econo
 E:\Working\SheetCuttingOptimizationTool\src\Econo\obj\Debug\net6.0-windows\ref\Econo.dll
 E:\Working\SheetCuttingOptimizationTool\src\Econo\obj\Debug\net6.0-windows\Views\Start.g.cs
 E:\Working\SheetCuttingOptimizationTool\src\Econo\obj\Debug\net6.0-windows\Views\Start.baml
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\LottieSharp.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\SkiaSharp.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\SkiaSharp.SceneGraph.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\SkiaSharp.Skottie.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\Resources\animation_ljzeyr9q.json
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\resources\fac.json

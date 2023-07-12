@@ -8,6 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="resources\animation_ljzeyr9q.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="resources\animation_ljzeyr9q.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Econo.Datalayer\Econo.Datalayer.csproj" />
     <ProjectReference Include="..\Econo.ViewModels\Econo.ViewModels.csproj" />
   </ItemGroup>
