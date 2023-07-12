@@ -1,0 +1,10 @@
+info: 2023-07-12 15:15:37.4461781 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 15:15:41.0284291 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.
+info: 2023-07-12 15:16:18.7442513 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+info: 2023-07-12 15:16:40.2970320 +08:00 星期三 L System.Logging.EventBusService[0] #1
+      EventBus hosted service is running.
+dbug: 2023-07-12 15:17:10.0572015 +08:00 星期三 L System.Logging.EventBusService[0] #2
+      EventBus hosted service is stopping.

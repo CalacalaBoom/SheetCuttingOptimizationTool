@@ -1,0 +1,12 @@
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\bin\Debug\net6.0-windows\Econo.Datalayer.deps.json
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\bin\Debug\net6.0-windows\Econo.Datalayer.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\bin\Debug\net6.0-windows\Econo.Datalayer.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.csproj.AssemblyReference.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.AssemblyInfoInputs.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.AssemblyInfo.cs
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.csproj.CoreCompileInputs.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\refint\Econo.Datalayer.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\Econo.Datalayer.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Datalayer\obj\Debug\net6.0-windows\ref\Econo.Datalayer.dll

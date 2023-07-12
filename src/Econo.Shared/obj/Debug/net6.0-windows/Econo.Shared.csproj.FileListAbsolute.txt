@@ -1,0 +1,12 @@
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\bin\Debug\net6.0-windows\Econo.Shared.deps.json
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\bin\Debug\net6.0-windows\Econo.Shared.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\bin\Debug\net6.0-windows\Econo.Shared.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.csproj.AssemblyReference.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.AssemblyInfoInputs.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.AssemblyInfo.cs
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.csproj.CoreCompileInputs.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\refint\Econo.Shared.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\Econo.Shared.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.Shared\obj\Debug\net6.0-windows\ref\Econo.Shared.dll

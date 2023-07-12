@@ -1,0 +1,17 @@
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.ViewModels.deps.json
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.ViewModels.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.ViewModels.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.Shared.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.Shared.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.csproj.AssemblyReference.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.AssemblyInfoInputs.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.AssemblyInfo.cs
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.csproj.CoreCompileInputs.cache
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.csproj.CopyComplete
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\refint\Econo.ViewModels.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\Econo.ViewModels.pdb
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\obj\Debug\net6.0-windows\ref\Econo.ViewModels.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.Datalayer.dll
+E:\Working\SheetCuttingOptimizationTool\src\Econo.ViewModels\bin\Debug\net6.0-windows\Econo.Datalayer.pdb
