@@ -3,10 +3,70 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Econo.Views"
+        xmlns:local="clr-namespace:Econo.Views" 
+        xmlns:hc="https://handyorg.github.io/handycontrol"
         mc:Ignorable="d"
-        Title="Start" Height="450" Width="800">
-    <Grid>
-        <TextBlock Text="{Binding model.testText}"/>
+        Title="开始" Height="720" Width="1250"
+        WindowStartupLocation="CenterScreen" Background="#F5F5F5">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <hc:TransitioningContentControl>
+            <ListView ItemsSource="{Binding model.RecordList}" Style="{StaticResource ListView.Small}" Background="#FFFFFF" BorderBrush="#E0E0E0">
+                <ListView.View>
+                    <GridView>
+                        <GridView.ColumnHeaderContainerStyle>
+                            <Style TargetType="{x:Type GridViewColumnHeader}">
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                                            <Border Background="{TemplateBinding Background}"
+                                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                                    BorderThickness="{TemplateBinding BorderThickness}">
+                                                <TextBlock Text="{TemplateBinding Content}"
+                                                           HorizontalAlignment="Center"
+                                                           VerticalAlignment="Center" />
+                                            </Border>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="LightBlue" />
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </GridView.ColumnHeaderContainerStyle>
+                        <GridViewColumn  Width="auto" Header="工程名" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn  Width="auto" Header="保存时间" DisplayMemberBinding="{Binding Time}" />
+                        <GridViewColumn  Width="auto" Header="路径" DisplayMemberBinding="{Binding Path}" />
+                        <GridViewColumn  Width="auto" Header="成品数量" DisplayMemberBinding="{Binding Finishednum}" />
+                        <GridViewColumn  Width="auto" Header="原料数量" DisplayMemberBinding="{Binding Rawnum}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </hc:TransitioningContentControl>
+
+        <StackPanel HorizontalAlignment="Left" Margin="0,10,0,0" Grid.Column="1">
+            <Button Margin="10,0,10,10" Width="250" Height="50" Command="{Binding evt_Open}" HorizontalContentAlignment="Left">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xebdf;" FontFamily="pack://application:,,,/./resources/#iconfont" VerticalAlignment="Center"  FontSize="18"/>
+                        <TextBlock Text="打开工程" FontSize="18" Margin="5,0,0,0"/>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+            <Button Margin="10" Width="250" Height="50" Command="{Binding evt_Create}"  HorizontalContentAlignment="Left">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xe609;" FontFamily="pack://application:,,,/./resources/#iconfont" VerticalAlignment="Center"  FontSize="18"/>
+                        <TextBlock Text="创建新工程"  FontSize="18" Margin="5,0,0,0"/>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>

@@ -54,7 +54,7 @@ namespace Econo.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Econo;V1.0.0.0;component/views/welcome.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Econo;component/views/welcome.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Welcome.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

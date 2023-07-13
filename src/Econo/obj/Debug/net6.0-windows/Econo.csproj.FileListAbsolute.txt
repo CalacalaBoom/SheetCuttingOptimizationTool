@@ -155,4 +155,5 @@ E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runti
 E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
 E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
 E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\Resources\animation_ljzeyr9q.json
-E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\resources\fac.json
+E:\Working\SheetCuttingOptimizationTool\src\Econo\bin\Debug\net6.0-windows\resources\iconfont.ttf
+E:\Working\SheetCuttingOptimizationTool\src\Econo\obj\Debug\net6.0-windows\Econo_Content.g.cs
